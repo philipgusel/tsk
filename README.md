@@ -12,7 +12,7 @@ tsk done item
 tsk reset
 ```
 
-for vim bindnings, add
+for vim bindings, add
 ```vim
 nnoremap <M-h> :!tsk<CR>
 nnoremap <M-a> :!tsk add ""<Left>
